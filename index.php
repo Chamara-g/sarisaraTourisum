@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Sarisara</title>
+  <title>Isarisara Tours</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -243,7 +243,7 @@ padding: 200px;margin-top: -100px;
           <!-- Navigation -->
           <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
 
-                  <a class="navbar-brand js-scroll-trigger" href="#page-top" style="margin-right: 100px;margin-left: 50px;font-size: 25px;">Sarisara Tours</a>
+                  <a class="navbar-brand js-scroll-trigger" href="#page-top" style="margin-right: 100px;margin-left: 50px;font-size: 25px;">Isarisara Tours</a>
 
             <!-- menu bar  -->
             <div id='cssmenu' class="collapse navbar-collapse">
@@ -254,7 +254,6 @@ padding: 200px;margin-top: -100px;
                <li class='active has-sub'><a class="js-scroll-trigger" href='gallery/main/index.html'>Gallery</a></li>         
                <li class='active has-sub'><a class="js-scroll-trigger" href='feedback/grid/index.html'>feedback</a></li>
                <li class='active has-sub'><a class="js-scroll-trigger" href='#booking'>Booking</a></li>
-               <li class='active has-sub'><a class="js-scroll-trigger"  href='#team'>Team</a></li>
                <li class='active has-sub'><a class="js-scroll-trigger"  href='#contact'>Contact Us</a></li>
             </ul>
             </div><!-- menu bar end -->
@@ -389,7 +388,7 @@ padding: 200px;margin-top: -100px;
               <img src="img/about.jpg" style="width: 100%;">
             </div>
             <div class="col-sm-8 timeline-body" style="">
-                Sarisara Tours is an experienced tour agent in Sri Lanka.We bring to bear upon the service we render to you, great dedication, many years of experience, expertise and honesty. We take all the endeavors to ensure that you are pleased with our service. Our mission is to give you a comfortable service with choosable packages. We are glad to inform that all these packages are suitable for any person including children. We have a host of experienced and outstanding tour guides who are fluent in several languages like Italian, French, German Spanish, Japanese, Chinese, Hindi and English. Our object is to give you the utmost satisfaction through our dedicated service to suit your requirements and interests as well as to lessen the demands on your purse. We protect our unsuspecting client to the maximum, and we are ready to adjust the route or the sites or to modify the itinery according to your wishes. Our cardinal principle is to guarantee that you carry with you happy memories and that you have been well looked after by us. The confidence you repose in us would be upheld with the greatest commitment. So please seek our service and we will definitely live up to your expectations and please come and see the difference. We are always at your service. You are welcome.
+                Isarisara Tours is an experienced tour agent in Sri Lanka.We bring to bear upon the service we render to you, great dedication, many years of experience, expertise and honesty. We take all the endeavors to ensure that you are pleased with our service. Our mission is to give you a comfortable service with choosable packages. We are glad to inform that all these packages are suitable for any person including children. We have a host of experienced and outstanding tour guides who are fluent in several languages like Italian, French, German Spanish, Japanese, Chinese, Hindi and English. Our object is to give you the utmost satisfaction through our dedicated service to suit your requirements and interests as well as to lessen the demands on your purse. We protect our unsuspecting client to the maximum, and we are ready to adjust the route or the sites or to modify the itinery according to your wishes. Our cardinal principle is to guarantee that you carry with you happy memories and that you have been well looked after by us. The confidence you repose in us would be upheld with the greatest commitment. So please seek our service and we will definitely live up to your expectations and please come and see the difference. We are always at your service. You are welcome.
             </div>
           </div>
       </div>
@@ -511,7 +510,7 @@ padding: 200px;margin-top: -100px;
       </div>
     </section>
  
-    <!-- Team -->
+    <!-- Team 
     <section class="bg-light" id="team"  style="background-color: #703c70!important;">
       <div class="container">
         <div class="row" style="margin-top: -100PX;">
@@ -675,7 +674,7 @@ padding: 200px;margin-top: -100px;
         </div>
       </div>
     </section>
-
+  -->
 
 
     <!-- Contact -->
@@ -690,7 +689,7 @@ padding: 200px;margin-top: -100px;
         <div class="row">
           <div class="col-lg-4 text-center">
             <h1 class="section-heading text-uppercase">ADDRESS</h2>
-            <h3 class="section-subheading text-muted">Sarisara Tours,<br>
+            <h3 class="section-subheading text-muted">Isarisara Tours,<br>
             26 /15,<br>
             OLD KOTTAWA ROOD,<br>
             NUGEGODA</h3>

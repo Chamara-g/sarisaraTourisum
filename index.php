@@ -243,7 +243,8 @@ padding: 200px;margin-top: -100px;
           <!-- Navigation -->
           <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
 
-                  <a class="navbar-brand js-scroll-trigger" href="#page-top" style="margin-right: 100px;margin-left: 50px;font-size: 25px;">Isarisara Tours</a>
+                  <a class="navbar-brand js-scroll-trigger" href="#page-top" style="margin-right: 100px;margin-left: 50px;font-size: 25px;"><img class="white" alt="logo" src="img/logo.jpg"></a>
+
 
             <!-- menu bar  -->
             <div id='cssmenu' class="collapse navbar-collapse">
